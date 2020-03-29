@@ -1,0 +1,6 @@
+framework module Pods_addBlog {
+  umbrella header "Pods-addBlog-umbrella.h"
+
+  export *
+  module * { export * }
+}
